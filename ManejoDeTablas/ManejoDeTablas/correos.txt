@@ -1,0 +1,2 @@
+correo@gmail.com,juan perez,100
+correo2@gmail.com,Alberto Medina,50
